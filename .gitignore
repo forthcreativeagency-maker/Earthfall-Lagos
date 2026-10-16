@@ -1,0 +1,24 @@
+# Dependencies
+node_modules/
+
+# SQLite database (contains user accounts)
+earthfall.db
+earthfall.db-shm
+earthfall.db-wal
+earthfall.db-journal
+
+# Logs
+logs/
+*.log
+
+# Environment secrets
+.env
+.env.*
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Editor
+.vscode/
+.idea/

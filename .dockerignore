@@ -1,0 +1,12 @@
+node_modules
+npm-debug.log
+logs
+earthfall.db
+earthfall.db-shm
+earthfall.db-wal
+*.bak
+*.bak2
+.git
+.gitignore
+ngrok*
+.env
